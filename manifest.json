@@ -1,0 +1,10 @@
+﻿{
+  "name": "TeapotPlugin",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/TakesTheBiscuit",
+  "description": "Changes the name of Clay Dunestrider and Bell.",
+  "dependencies": [
+    "bbepis-BepInExPack-3.2.0",
+    "Harb-AssetPlusRequester-1.0.0"
+  ]
+}
